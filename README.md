@@ -1,0 +1,2 @@
+# timeseriesproject
+trend and seasonality
